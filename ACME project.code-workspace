@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/stacyo/Desktop/examples/js-dropdown"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-dropdown"
+	}
+}
